@@ -1,0 +1,17 @@
+{
+  "name": "sitosdev",
+  "version": "1.0.0",
+  "description": "Bot discord",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ytdl-core": "^0.28.0",
+    "youtube-dl": "^1.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "*help"
+  },
+  "author": "MisterZ",
+  "license": "ISC"
+}
